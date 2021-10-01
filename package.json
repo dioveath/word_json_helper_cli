@@ -1,0 +1,17 @@
+{
+  "name": "word_json_generator",
+  "version": "0.0.1",
+  "description": "Helps with words listing, adding, removing and other utils.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Saroj Rai",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0"
+  },
+  "devDependencies": {}
+}
