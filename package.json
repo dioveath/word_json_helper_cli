@@ -1,5 +1,5 @@
 {
-  "name": "word_json_generator",
+  "name": "word_json_helper_cli",
   "version": "0.0.1",
   "description": "Helps with words listing, adding, removing and other utils.",
   "main": "main.js",
